@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE A Time Table</title>
+    <style>
+        table {
+            margin-top: 100px;
+        }
+
+        td,
+        th {
+            font-size: xx-large;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        span {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <table border="1" align="center" cellspacing="10" cellpadding="10">
+        <caption>
+            <h1>CSE A Time Table</h1>
+        </caption>
+        <tr>
+            <th> Image </th>
+            <th> Author </th>
+            <th> Publisher </th>
+            <th> Price </th>
+            <th></th>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="center"> sai vardhan</td>
+            <td align="center"> GSVR</td>
+            <td align="center"> 200$</td>
+            <td align="center"> <input type="submit" value="ADD TO CART"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="center">simhadri</td>
+            <td align="center">bs</td>
+            <td align="center">100$</td>
+            <td align="center"> <input type="submit" value="ADD TO CART"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="center">sriya</td>
+            <td align="center">GS</td>
+            <td align="center">150$</td>
+            <td align="center"> <input type="submit" value="ADD TO CART"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="center">yasheswini</td>
+            <td align="center">GY</td>
+            <td align="center">250$</td>
+            <td align="center"> <input type="submit" value="ADD TO CART"></td>
+        </tr>
+    </table>
+</body>
+
+</html>
